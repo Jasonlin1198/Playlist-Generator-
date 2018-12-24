@@ -36,7 +36,7 @@ class Playlist extends Component {
     return (
       <div style={{...defaultStyle, width: '25%', display: 'inline-block'}}>
         <img />
-        <h3>Playlist Name</h3>
+        <h3>Playlist Name!</h3>
         <ul>
           <li>Song1</li>
           <li>Song2</li>
